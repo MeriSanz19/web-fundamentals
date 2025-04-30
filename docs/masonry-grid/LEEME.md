@@ -171,6 +171,10 @@ Incluye:
 
 - Si se desea calcular `span` según altura real, se requiere JS (no cubierto aquí).
 
+### Recursos
+
+- [CSS Grid Layout #1: Responsive Masonry](https://codepen.io/iamsaief/pen/jObaoKo)
+
 ---
 
 ## Conclusiones pedagógicas
@@ -181,7 +185,7 @@ Incluye:
 
 ---
 
-## 🔹 Propuesta de actividad final para el aula
+## Propuesta de actividad final para el aula
 
 1. Crear una galería con 10 imágenes usando la técnica de `column-count`.
 2. Duplicar el proyecto y transformarlo usando `grid-auto-flow: dense`.
